@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?><DEFECTS><DEFECT>
+    <SFA>
+      <FILEPATH>i:\专业课程\操作系统\</FILEPATH>
+      <FILENAME>jobschedule.cpp</FILENAME>
+      <LINE>79</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6280</DEFECTCODE>
+    <DESCRIPTION>“jobs”使用“malloc”分配，但使用“delete []”删除。</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>67</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>i:\专业课程\操作系统\</FILEPATH>
+        <FILENAME>jobschedule.cpp</FILENAME>
+        <LINE>72</LINE>
+        <COLUMN>14</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>i:\专业课程\操作系统\</FILEPATH>
+        <FILENAME>jobschedule.cpp</FILENAME>
+        <LINE>79</LINE>
+        <COLUMN>10</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT></DEFECTS>

@@ -1,0 +1,6 @@
+﻿  JobSchedule.cpp
+i:\专业课程\操作系统\jobschedule.cpp(63): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+i:\专业课程\操作系统\jobschedule.cpp(132): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+i:\专业课程\操作系统\jobschedule.cpp(201): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  作业调度算法模拟.vcxproj -> I:\专业课程\操作系统\OS\Debug\作业调度算法模拟.exe
+  作业调度算法模拟.vcxproj -> I:\专业课程\操作系统\OS\Debug\作业调度算法模拟.pdb (Full PDB)
