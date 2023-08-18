@@ -1,2 +1,2 @@
 # OS
-操作系统原理课实验
+Operating System Principles Course Experiment
